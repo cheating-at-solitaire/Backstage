@@ -206,6 +206,11 @@ catalog:
       rules:
         - allow: [User, Group]
 
+    - type: url
+      target: https://github.com/cheating-at-solitaire/Backstage/blob/master/platform-team.yaml
+      rules:
+        - allow: [Group]
+
     ## Uncomment these lines to add more example data
     # - type: url
     #   target: https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/all.yaml
