@@ -54,3 +54,9 @@ catalog:
       target: ./examples/org.yaml
       rules:
         - allow: [User, Group]
+
+    # Platform Team
+    - type: url
+      target: https://github.com/cheating-at-solitaire/Backstage/blob/master/platform-team.yaml
+      rules:
+        - allow: [Group]
