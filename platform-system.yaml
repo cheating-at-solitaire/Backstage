@@ -4,4 +4,4 @@ metadata:
   name: developer-platform
   description: Internal developer platform
 spec:
-  owner: guests
+  owner: platform-team
